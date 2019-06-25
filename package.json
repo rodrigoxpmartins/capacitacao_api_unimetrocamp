@@ -1,0 +1,26 @@
+{
+  "name": "capacitacao_api_unimetrocamp",
+  "version": "1.0.0",
+  "description": "API node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoxpmartins/capacitacao_api_unimetrocamp.git"
+  },
+  "author": "Rodrigo Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoxpmartins/capacitacao_api_unimetrocamp/issues"
+  },
+  "homepage": "https://github.com/rodrigoxpmartins/capacitacao_api_unimetrocamp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
